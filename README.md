@@ -1,2 +1,2 @@
 # Design-Patterns
-learning about programming design patterns.
+Learning about programming design patterns.
